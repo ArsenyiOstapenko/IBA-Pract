@@ -1,0 +1,499 @@
+.header{
+    height: 130px;
+    border-bottom: 1px solid silver;
+}
+.conteiner-navigation-menu{
+    background-color: #20B2AA;
+    display: flex;
+    justify-content: center;
+    
+}
+.conteiner-navigation-menu nav{
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+    height: 35px
+}
+.conteiner-navigation-menu a{
+    text-decoration: none; 
+    padding: 15px;
+    color: white;
+    font-size: 20px;
+}
+.conteiner-navigation-menu li{
+    list-style-type: none;
+    display: inline;
+}
+.conteiner-navigation-menu ul{
+    margin: 0;
+    padding-top: 7px;
+}
+.active-link{
+    color: black !important;
+    background-color: white;
+    padding: 5px 5px 7px 5px !important;
+}
+.conteiner-name-web-sait {
+    display:flex;
+    justify-content: center;
+    margin-right: 1050px;
+    margin-top: -30px;
+}
+.conteiner-name-web-sait p{
+    font-size: 45px;
+    font-family:Luminari, fantasy;
+}
+.Second-name{
+    display: flex;
+    justify-content: center;
+}
+.Second-name p{
+    font-size: 15px;
+    margin-right: 970px;
+    margin-top: -45px;
+}
+.Model-3D-picture{
+    display: flex;
+    justify-content: center;
+    margin-left: 830px;
+    margin-top: -90px;
+}
+.conteiner-with-content-1{
+    width: 520px;
+    height: 1650px;
+    display: flex;
+    justify-content: center;
+    margin-left:100px;
+    padding-left: 10px;
+    border-left: 1px solid silver;
+    border-right: 1px solid silver;
+    
+}
+.slider-line img{
+    width: 480px;
+    height: 480px;
+}
+.slider{
+    width: 480px;
+    height: 480px;
+    overflow: hidden;
+}
+.slider-line{
+    display: flex;
+}
+.button-dots{
+    position: absolute;
+    top:20px;
+    right: 20px;
+}
+.dot{
+     display: inline-block;
+     width: 15px;
+     height: 15px;
+     border-radius: 50%;
+     background-color: #00BFFF;
+}
+.main-conteiner-with-content{
+    display: flex;
+    width: 1225px;
+    
+}
+.conteiner-slider{
+    padding-top: 20px;
+    position: relative;
+}
+.conteiner-with-tennis-name{
+    height: 22px;
+    margin-top: 35px;
+    border-bottom-style:double; 
+    border-bottom-color:silver;
+}
+.prewu-name{
+    color: #00BFFF;
+    font-size: 20px;
+}
+.tennis-post-1 img{
+    width: 190px;
+    height: 190px;
+}
+.tennis-post-1{
+    margin-top:15px;
+}
+.prince{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.Date{
+    color: #00BFFF;
+    font-size: 18px;
+    margin-top: -10px;
+}
+.Neque-1{
+    font-size: 15px;
+    margin-top: -10px;
+    color: #2F4F4F;
+}
+.tennis-post-2 img{
+    width: 130px;
+    height: 130px;
+}
+.mini{
+    display: flex;
+}
+.tennis-post-2{
+    margin-top: 15px;
+    width: 285px;
+}
+.loris{
+    margin-top: -140px;
+    margin-left: 130px;
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.mini-2{
+    display: flex;
+    height: 180px;
+    border-bottom: 1px solid silver;
+}
+.Neque-2{
+    margin-left: 130px;
+    font-size: 15px;
+    padding-left: 10px;
+    margin-top: -15px;
+    color: #2F4F4F;
+}
+.velit{
+    margin-top: -10px;
+    font-size: 15px;
+    color: #2F4F4F;
+}
+.un-post-1{
+    width: 285px;
+    margin-left: 210px;
+    margin-top: -175px;
+    height: 100px;
+    border-bottom: 1px solid silver;
+}
+.Neque-3{
+    font-size: 14px;
+    margin-top: -12px;
+    color: #2F4F4F;
+}
+.un-post-2{
+    margin-left: 210px;
+    width: 285px;
+}
+.Neque-4{
+    margin-top: -10px;
+    font-size: 14px;
+    color: #2F4F4F;
+}
+.loris-2{
+    margin-top: 5px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.conteiner-with-nhl-news{
+    width: 490px;
+    margin-top: 50px;
+}
+.name-nhl-news{
+    color: #00BFFF;
+    font-size: 20px;
+    border-bottom-style:double; 
+    border-bottom-color:silver;
+}
+.nhl-img-1{
+    width: 190px;
+    height: 190px;
+}
+.At-vero{
+    font-size: 13px;
+    margin-top: -10px;
+    color: #2F4F4F;
+}
+.mini-3{
+    display: flex;
+}
+.nhl-post-2{
+    width: 285px;
+    margin-left: 210px;
+    margin-top: -350px;
+    height: 165px;
+    border-bottom: 1px solid silver;
+}
+.un-post-3{
+    width: 290px;
+    height: 100px;
+    margin-top: 15px;
+    margin-left: 205px;
+    border-bottom: 1px solid silver;
+}
+.un-post-4{
+    width: 300px;
+    height: 100px;
+    margin-top: 35px;
+    margin-left: 205px;
+}
+.maecans{
+    font-size: 15px;
+    color: #2F4F4F;
+    margin-top: -15px;
+}
+.name-featured-news{
+    color: #00BFFF;
+    font-size: 20px;
+    border-bottom-style:double; 
+    border-bottom-color:silver;
+}
+.conteiner-with-content-2{
+    height: 1650px;
+    padding-left:25px;
+    border-right: 1px solid silver;
+}
+.news-un-post-1 img{
+    width: 180px;
+    height: 180px;
+}
+.news-un-post-2 img{
+    width: 180px;
+    height: 180px;
+}
+.news-un-post-3 img{
+    width: 180px;
+    height: 180px;
+}
+.mini-4{
+    display: flex;
+    border-bottom: 1px solid silver;
+}
+.news-un-post-2{
+    padding-left: 25px;
+}
+.news-un-post-3{
+    padding-left: 25px;
+    padding-right: 5px;
+}
+.loris-1{
+    font-size: 20px;
+    font-weight: bold;
+}
+.Neque-5{
+    margin-top: -10px;
+    font-size: 15px;
+    color: #2F4F4F;
+}
+.name-fashion{
+  width: 335px;
+  font-size: 20px;
+  color: #00BFFF;
+  border-bottom-style:double; 
+  border-bottom-color:silver;
+}
+.conteiner-fashion img{
+    width: 335px;
+    height: 335px;
+}
+.conteiner-fashion{
+    width: 350px;
+    height: 485px;
+    margin-top: -20px;
+    padding-top: 15px;
+    margin-left: -25px;
+    padding-left: 25px;
+    /* border-right: 1px solid silver; */
+    border-bottom: 1px solid silver;
+}
+.un-conteiner-fashion-1{
+    margin-top: 15px;
+}
+.un-conteiner-fashion-1{
+    display: flex;
+}
+.Sergio{
+    padding-left: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: -5px;
+    height: 70px;
+}
+.maecans-1{
+    width: 250px;
+    font-size: 15px;
+    margin-left: 90px;
+    margin: 0;
+    margin-left: 90px;
+    margin-top: -20px;
+    color: #2F4F4F;
+    
+}
+.lancinia{
+    width: 350px;
+    height: 55px;
+    font-size: 15px;
+    margin-top: 3px;
+    color: #2F4F4F;
+    border-bottom: 1px solid silver;
+}
+.name{
+    height: 50px;    
+}
+.mini-6{
+    width: 350px;
+}
+.name-2{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 90px;
+    margin-top: -80px;
+}
+.un-conteiner-fashion-2 img{
+    width: 75px;
+    height: 75px;
+}
+.maecans-2{
+    margin-left: 90px;
+    color: #2F4F4F;
+}
+.laninia{
+    margin: 0;
+    margin-top: -18px;
+    color: #2F4F4F;
+}
+.all-conteiner-sport-news{
+    margin-top: 35px;
+}
+.name-sport-news{
+    width: 350px;
+    font-size: 20px;
+    color: #00BFFF;
+    border-bottom-style:double; 
+    border-bottom-color:silver;
+}
+.post-no-image{
+    font-size:18px;
+    font-weight: bold;
+}
+.text-1{
+    width: 350px;
+    height: 30px;
+    margin: 0;
+    margin-top: -10px;
+    
+}
+.neque{
+    height: 55px;
+    margin-top: -12px;
+    color: #2F4F4F;
+    border-bottom: 1px solid silver ;
+}
+.text-2{
+    margin-top: 100px;
+}
+.block-text-2{
+    margin-left: 130px;
+    margin-top: -130px;
+}
+.loris-3{
+    font-size: 17px;
+    font-weight: bold;
+}
+.Neque-6{
+    margin-top: -12px;
+}
+.velit-6{
+    margin-top: -12px;
+}
+.all-conteiner-with-video{
+    width: 200px;
+    margin-left: 360px;
+    margin-top:-1187px;
+}
+.name-video{
+    padding-left: 15px;
+    font-size: 20px;
+    color: #00BFFF;
+    width: 185px;
+    height: 26px;
+    margin-top: -30px;
+    margin-left: 16px;
+    border-bottom-style:double; 
+    border-bottom-color:silver;
+}
+.Make-1{ 
+    width: 185px;
+    margin-right: 25px;
+    margin-top: -30px;
+    padding-top: 15px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.img-video-1{
+    width: 200px;
+    height: 200px;
+}
+.content-with-video-1{
+    width: 220px;
+    padding-top: 5px;
+    padding-left: 15px;
+    height: 350px;
+    border-left: 1px solid silver;
+    border-bottom: 1px solid silver;
+}
+.Make-2{
+    margin-top: 5px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.img-video-2{
+    width: 200px;
+    height: 200px;
+}
+.content-with-video-2{
+    padding-left: 15px;
+    padding-top: 30px;
+    width: 220px;
+    height: 370px;
+    border-bottom: 1px solid silver;
+    border-left: 1px solid silver;
+}
+.Make-3{
+    margin-top: 5px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.img-video-3{
+    width: 200px;
+    height: 200px;
+}
+.content-with-video-3{
+    padding-top: 18px;
+    padding-left: 15px;
+    height: 350px;
+    border-left: 1px solid silver;
+}
+.none{
+    height: 30px;
+    margin-top: -1px;
+    border-top: 3px solid #00BFFF;
+    border-bottom: 1px solid silver;
+    color: white;
+}
+.none-2{
+    height: 15px;
+    color: white;
+    border-bottom: 1px solid silver;
+}
+.Copyright{
+    text-align: center;
+}
+.Copyright-2{
+    margin-top: -15px;
+}
+main{
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+}
